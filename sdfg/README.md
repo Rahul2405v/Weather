@@ -1,33 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
 
-        h1 {
-            color: #2c3e50;
-        }
 
-        p {
-            color: #34495e;
-        }
-
-        code {
-            background-color: #ecf0f1;
-            padding: 2px 5px;
-            border-radius: 3px;
-        }
-    </style>
-</head>
-<body>
 
     <h1>Weather Project</h1>
 
@@ -37,7 +9,7 @@
 
     <ol>
         <li>Enter the name of a city or country in the input field.</li>
-        <li>Click the "Get Weather" button to retrieve the current weather information.</li>
+        <li>Click the "Get Weather" button to retrieve the current weather information.</li>            
         <li>View the displayed temperature, humidity, and wind speed.</li>
     </ol>
 
@@ -68,5 +40,3 @@
 
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-</body>
-</html>
