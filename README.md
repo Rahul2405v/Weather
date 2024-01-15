@@ -5,6 +5,6 @@ This project allows users to input a city or country name and retrieve informati
 How to Use:
 
 1. Enter the name of a city or country in the input field.
-2. Click the "Get Weather" button to retrieve the current weather information.
+2. Click the "Search" Symbol to retrieve the current weather information.
 3. View the displayed temperature, humidity, and wind speed.
 
